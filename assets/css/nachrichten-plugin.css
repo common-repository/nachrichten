@@ -1,0 +1,15 @@
+.widget_nachrichten_plugin_widget ul {list-style: none;}
+.nachrichten-plugin-title {  color: #AAAAAA;font-weight: bold;}
+.nachrichten-plugin-date {  color: #AAAAAA;  font-size: 80%; display: block;}
+.nachrichten-plugin-source {  color: #AAAAAA;  font-size: 90%;}
+.nachrichten-plugin-source:before {content: "(";}
+.nachrichten-plugin-source:after {content: ")";}
+.nachrichten-plugin-abstract {display: block;margin: 4px 0px 0px 8px; font-size: small;}
+.nachrichten-plugin-abstract img {width:25%;float: left;margin-right: 12px;}
+.nachrichten-plugin-edit-box {border: 1px solid #888888;background-color: #DDDDDD; color: #000000;padding: 8px 16px;}
+.nachrichten-plugin-edit-box a { color: #AAAAAA;  text-decoration: underline;}
+#preview_hide_div{display:none;}
+#before_preview{	}
+#btn_cnt_add{margin-left: 65px;}
+.feed_system_preview{border: 1px solid black;background-color:#ffffff;height: 267px;float: left;width: 100%;overflow-x: auto;margin-top: 0px;}.feeds_status_table{	background-color: #ffffff;	border: 1px solid #e5e5e5;}
+.log_div{margin: 0px;float: left;}
